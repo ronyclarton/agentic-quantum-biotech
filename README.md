@@ -252,8 +252,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 **Contact**
 
 - **Repository**: https://github.com/ronyclarton/agentic-quantum-biotech
-- **Email**: ronycler@somewhere.com
-- **Project Website**: [Coming Soon]
+- **Email**: nadirovrony@somewhere.com
 
 ---
 
